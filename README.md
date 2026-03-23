@@ -1,3 +1,11 @@
+# blackroad-level-editor
+
+> Tile-based level editor with export
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Interactive](https://github.com/BlackRoad-Interactive)
+
+---
+
 # BlackRoad Level Editor
 
 Tile-based level editor with A* pathfinding, flood fill, procedural dungeon generation, and JSON/ASCII export.
